@@ -9,7 +9,7 @@
 4 - Create credentials with username and password(token) to access dockerhub from jenkins.<br/>
 5 - Add the jenkins pipeline, Jenkinsfile. (https://medium.com/codex/how-to-push-a-docker-image-to-docker-hub-using-jenkins-487fb1fcbe25 : a good example of how to push image to dockerhub using jenkins).<br/>
 # run the app
-1 - git clone https://github.com/FaresSaffouri/DockerFinalTask.git && cd DockerFinalTask<br/>
+1 - git clone https://github.com/Fares-Saffouri/DockerFinalTask.git && cd DockerFinalTask<br/>
 2 - docker compose up -d<br/>
 3 - to stop the app: docker compose down<br/>
 Access from the browser: localhost:8000<br/>
