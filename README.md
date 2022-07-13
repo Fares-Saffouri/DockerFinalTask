@@ -12,8 +12,10 @@
 1 - git clone https://github.com/Fares-Saffouri/DockerFinalTask.git && cd DockerFinalTask<br/>
 2 - docker compose up -d<br/>
 3 - to stop the app: docker compose down<br/>
-Access from the browser: localhost:8000<br/>
 <br/>
+![image](https://user-images.githubusercontent.com/70641137/178855978-b71c2adf-8620-4ef6-9063-f3a11208a9e6.png)
+![image](https://user-images.githubusercontent.com/70641137/178855990-c636d0c1-dab6-4c10-84cb-4a29e54e4bc2.png)<br/>
+<br/>Access from the browser: localhost:8000<br/><br/>
 ![image](https://user-images.githubusercontent.com/70641137/178851406-f06081c8-c18c-4453-abf4-5c8831ad7aa6.png)
 ![image](https://user-images.githubusercontent.com/70641137/178851442-cda4611d-e6dd-473d-8bbc-88b3894b6e7f.png)
 ![image](https://user-images.githubusercontent.com/70641137/178851456-5dcd4e7f-0ee0-487e-8bae-0b2f77fcd31b.png)
