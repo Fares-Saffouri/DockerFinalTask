@@ -34,13 +34,8 @@ def home():
         cache.set('currentPrice', price)
         cache.set('averagePrice', average_price)
 
-        # print(redis.get('currentPrice'))
-        # print(redis.get('averagePrice'))
-
         # I used this return with refresh to update the content in page without clicking refresh each time
         return """
         <meta http-equiv="refresh" content="1" /><h1>Current BitCoin Price is: {}$</h1><br> <h1>Average BitCoin Price Last 10 Minutes: 
         {}$ </h1>""".format(price,average_price)
 
-# if __name__ == "__main__":
-#     app.run()
