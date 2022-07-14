@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/70641137/178855990-c636d0c1-dab6-4c10-84cb-4a29e54e4bc2.png)<br/>
 <br/>Access from the browser: localhost:8000<br/><br/>
 ![image](https://user-images.githubusercontent.com/70641137/178851406-f06081c8-c18c-4453-abf4-5c8831ad7aa6.png)
-![image](https://user-images.githubusercontent.com/70641137/178851442-cda4611d-e6dd-473d-8bbc-88b3894b6e7f.png)
-![image](https://user-images.githubusercontent.com/70641137/178851456-5dcd4e7f-0ee0-487e-8bae-0b2f77fcd31b.png)
-![image](https://user-images.githubusercontent.com/70641137/178851471-89333179-4acb-4250-9ff3-a846467ed79e.png)
+![image](https://user-images.githubusercontent.com/70641137/178857493-ed1cab17-5256-4577-a7b3-3778a2977844.png)
+![image](https://user-images.githubusercontent.com/70641137/178857539-740087ac-bb82-4945-b4fa-de2299a8e80b.png)
+![image](https://user-images.githubusercontent.com/70641137/178857592-eb575332-933b-4bb9-a93b-ce9555f6c818.png)
 
